@@ -1,4 +1,3 @@
-Git is a version control system.
-i write a note 
-no matter inner text is what
-is free
+git is a distribute version control system
+git is free soft ware distribute under the GPL
+so what that mean
